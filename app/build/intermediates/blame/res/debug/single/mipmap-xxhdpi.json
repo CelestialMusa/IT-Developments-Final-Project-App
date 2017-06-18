@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_my_location_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\programming.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\programming.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_settings_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_school_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\about.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_home_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_adb_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_adb_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_today_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\modules.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\modules.png"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_exit_to_app_black_24dp.png",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_exit_to_app_black_24dp.png"
+    }
+]

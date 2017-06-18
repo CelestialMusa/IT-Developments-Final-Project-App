@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_menu_main.xml",
+        "source": "C:\\Users\\NWUUser\\Desktop\\WiiPlan\\app\\src\\main\\res\\menu\\nav_menu_main.xml"
+    }
+]

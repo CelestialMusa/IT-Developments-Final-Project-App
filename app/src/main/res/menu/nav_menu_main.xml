@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_view_home">
+
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@mipmap/ic_home_black_24dp"/>
+
+    <group android:id="@+id/grp1" android:checkableBehavior="single">
+        <item android:id="@+id/nav_venues"
+            android:title="Venues"
+            android:icon="@mipmap/ic_my_location_black_24dp"/>
+
+        <item android:id="@+id/nav_modules"
+            android:title="Modules"
+            android:icon="@mipmap/ic_school_black_24dp"/>
+
+        <item android:id="@+id/nav_schedule"
+            android:title="My Schedule"
+            android:icon="@mipmap/ic_today_black_24dp"/>
+    </group>
+
+    <group android:id="@+id/grp2" android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_devblog"
+            android:title="Dev() Blog"
+            android:icon="@mipmap/ic_adb_black_24dp"/>
+
+        <item android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@mipmap/about"/>
+    </group>
+
+    <item android:id="@+id/nav_logout"
+        android:title="Sign Out"
+        android:icon="@mipmap/ic_exit_to_app_black_24dp"/>
+</menu>

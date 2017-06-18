@@ -1,0 +1,189 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="gida.wiiplan.AboutFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Wii Plan"
+                android:textSize="30dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Version 1.0 beta"
+                android:textSize="20sp"
+                android:id="@+id/textView13"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Coded by:"
+                android:textSize="20sp"
+                android:textStyle="normal|italic"
+                android:textAlignment="center" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginLeft="107dp">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:elevation="12dp"
+                    android:id="@+id/view2"
+                    app:cardCornerRadius="25dp"
+                    android:layout_centerHorizontal="true"
+                    android:innerRadius="25dp"
+                    android:shape="ring"
+                    android:thicknessRatio="1.9"
+                    android:layout_gravity="center">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        app:srcCompat="@drawable/img_developer"
+                        android:id="@+id/imgDeveloperImage"
+                        android:layout_height="100dp"
+                        android:contentDescription="Developer Image"
+                        android:layout_gravity="center" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Zacharia Manyoni"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:text="Tap Icon to Follow Me On:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView16"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="normal|italic" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:layout_height="58dp"
+                    app:srcCompat="@drawable/github"
+                    android:id="@+id/btnGithub"
+                    android:scaleType="centerInside"
+                    android:layout_weight="1"
+                    android:layout_width="30dp"
+                    android:background="#00FFFFFF" />
+
+                <ImageButton
+                    android:layout_height="58dp"
+                    app:srcCompat="@drawable/linkedin"
+                    android:id="@+id/btnLinkedin"
+                    android:layout_weight="1"
+                    android:scaleType="centerInside"
+                    android:layout_width="30dp"
+                    android:background="#00FFFFFF" />
+
+                <ImageButton
+                    android:layout_width="30dp"
+                    android:layout_height="58dp"
+                    app:srcCompat="@drawable/facebook"
+                    android:id="@+id/btnFacebook"
+                    android:layout_weight="1"
+                    android:scaleType="centerInside"
+                    android:background="#00FFFFFF" />
+
+                <ImageButton
+                    android:layout_height="58dp"
+                    app:srcCompat="@drawable/instagram"
+                    android:id="@+id/btnInstagram"
+                    android:layout_weight="1"
+                    android:layout_width="30dp"
+                    android:background="#00FFFFFF" />
+
+            </LinearLayout>
+
+            <TextView
+                android:text="Credits"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView18"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="normal|italic" />
+
+            <TextView
+                android:text="• Android Developers Website"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView19"
+                android:textAlignment="center" />
+
+            <TextView
+                android:text="• PRABEESH R K YouTube"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView20"
+                android:textAlignment="center" />
+
+            <TextView
+                android:text="• TheAppGurus Blog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView21"
+                android:textAlignment="center" />
+
+            <TextView
+                android:text="Licencing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView22"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="normal|italic" />
+
+            <TextView
+                android:text="• GPL-2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView23"
+                android:textAlignment="center" />
+
+            <TextView
+                android:text="• Apache 2.0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView24"
+                android:textAlignment="center" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
